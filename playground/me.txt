@@ -1,5 +1,0 @@
-{{#user}}
-Name: Enid
-Skills: python, html, css, sql, firebase, fastapi
-Email: enid.fernandes14@gmail.com
-{{/user}}
